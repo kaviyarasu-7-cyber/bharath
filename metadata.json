@@ -1,0 +1,8 @@
+{
+  "name": "Remix பாரத் எண்டர்பிரைசஸ் - Bharath Enterprises",
+  "description": "வடசித்தூர் பாரத் எண்டர்பிரைசஸ் - முன்னணி எலக்ட்ரானிக்ஸ் மற்றும் வீட்டு உபயோகப் பொருட்கள் ஆன்லைன் ஸ்டோர்.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

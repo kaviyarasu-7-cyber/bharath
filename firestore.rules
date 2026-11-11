@@ -1,0 +1,55 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Global Safety Net: Default Deny
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isValidId(id) {
+      return id is string && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function isAdmin() {
+      return isSignedIn() && (
+        request.auth.token.email == 'venkatachalamkaviyarasu7@gmail.com' ||
+        (exists(/databases/$(database)/documents/admins/$(request.auth.uid)))
+      );
+    }
+
+    // Products collection
+    match /products/{productId} {
+      allow read: if true;
+      allow create, update, delete: if isSignedIn();
+    }
+
+    // Categories collection
+    match /categories/{categoryId} {
+      allow read: if true;
+      allow create, update, delete: if isSignedIn();
+    }
+
+    // Orders collection
+    match /orders/{orderId} {
+      allow read, create: if true;
+      allow update, delete: if isSignedIn();
+    }
+
+    // Settings collection
+    match /settings/{settingId} {
+      allow read: if true;
+      allow write: if isSignedIn();
+    }
+
+    // Reviews collection
+    match /reviews/{reviewId} {
+      allow read: if true;
+      allow create: if true;
+      allow update, delete: if isSignedIn();
+    }
+  }
+}

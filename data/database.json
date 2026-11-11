@@ -1,0 +1,706 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "32-இன்ச் ஸ்மார்ட் பிரேம்லெஸ் எல்இடி டிவி",
+      "brand": "Bharath Select / Samsung Panel",
+      "model": "BH-32SMART-HD",
+      "categoryId": "cat-1",
+      "categoryName": "LED தொலைக்காட்சிகள்",
+      "price": 10999,
+      "originalPrice": 16990,
+      "discountPercentage": 35,
+      "stock": 7,
+      "inStock": true,
+      "image": "/src/assets/images/promo_tv_festival_display_1794210842998.jpg",
+      "description": "பாரத் எண்டர்பிரைசஸ் நேரடி விளம்பரச் சிறப்பு சலுகை! பிரீமியம் பிரேம்லெஸ் டிசைன், தெளிவான HD Ready திரைக் காட்சி மற்றும் அதிநவீன ஆண்ட்ராய்டு இயங்குதளம் கொண்ட 32 இன்ச் ஸ்மார்ட் டிவி.",
+      "specs": [
+        {
+          "label": "திரை அளவு",
+          "value": "32 இன்ச் (80 செ.மீ)"
+        },
+        {
+          "label": "தெளிவுத்திறன்",
+          "value": "HD Ready (1366 x 768 Pixels)"
+        },
+        {
+          "label": "ஒலி வெளியீடு",
+          "value": "20W Dolby Audio Stereo Speakers"
+        },
+        {
+          "label": "இயங்குதளம்",
+          "value": "Android Smart TV with YouTube & Hotstar"
+        },
+        {
+          "label": "இணைப்பு வசதிகள்",
+          "value": "2 HDMI, 2 USB, Wi-Fi & Bluetooth"
+        },
+        {
+          "label": "உத்தரவாதம்",
+          "value": "1 வருடம் முழு உத்திரவாதம்"
+        }
+      ],
+      "isAdOffer": true,
+      "adOfferNotice": "கடையின் நேரடி விளம்பர விலை (₹10,999) - வாங்கும் முன் கையிருப்பை சரிபார்க்கவும்.",
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "emiAvailable": true,
+      "monthlyEmiStarting": 999,
+      "rating": 4.8,
+      "reviewCount": 24
+    },
+    {
+      "id": "prod-2",
+      "name": "24-இன்ச் எச்டி எல்இடி தொலைக்காட்சி",
+      "brand": "Bharath Select / LG Panel",
+      "model": "BH-24LED-PRO",
+      "categoryId": "cat-1",
+      "categoryName": "LED தொலைக்காட்சிகள்",
+      "price": 9500,
+      "originalPrice": 13500,
+      "discountPercentage": 29,
+      "stock": 6,
+      "inStock": true,
+      "image": "/src/assets/images/promo_tv_festival_display_1794210842998.jpg",
+      "description": "பாரத் எண்டர்பிரைசஸ் நேரடி விளம்பரச் சிறப்பு விலை! படுக்கையறை மற்றும் சிறிய அறைகளுக்கு மிகச் சிறந்த, தெளிவான படக்காட்சி மற்றும் சக்திவாய்ந்த ஆடியோ கொண்ட 24 இன்ச் எல்இடி தொலைக்காட்சி.",
+      "specs": [
+        {
+          "label": "திரை அளவு",
+          "value": "24 இன்ச் (60 செ.மீ)"
+        },
+        {
+          "label": "தெளிவுத்திறன்",
+          "value": "Crystal HD (1366 x 768)"
+        },
+        {
+          "label": "ஒலி வெளியீடு",
+          "value": "16W Crystal Clear Audio"
+        },
+        {
+          "label": "இணைப்பு வசதிகள்",
+          "value": "1 HDMI, 1 USB, AV Input, Headphone Jack"
+        },
+        {
+          "label": "மின் நுகர்வு",
+          "value": "குறைந்த மின்சார பயன்பாடு (35W)"
+        },
+        {
+          "label": "உத்தரவாதம்",
+          "value": "1 வருடம் நேரடி கடையின் ஆதரவு"
+        }
+      ],
+      "isAdOffer": true,
+      "adOfferNotice": "கடையின் நேரடி விளம்பர விலை (₹9,500) - சிறந்த பட்ஜெட் டிவி.",
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "emiAvailable": true,
+      "monthlyEmiStarting": 850,
+      "rating": 4.7,
+      "reviewCount": 19
+    },
+    {
+      "id": "prod-3",
+      "name": "43-இன்ச் 4K அல்ட்ரா எச்டி ஸ்மார்ட் கூகுள் டிவி",
+      "brand": "Samsung / LG Tech",
+      "model": "43UHD-SMART-2026",
+      "categoryId": "cat-1",
+      "categoryName": "LED தொலைக்காட்சிகள்",
+      "price": 24999,
+      "originalPrice": 34990,
+      "discountPercentage": 28,
+      "stock": 5,
+      "inStock": true,
+      "image": "/src/assets/images/hero_showroom_appliances_1794210840737.jpg",
+      "description": "அதிநவீன 4K Ultra HD சினிமாட்டிக் அனுபவம் உங்கள் வீட்டிற்கு! கூகுள் டிவி இயங்குதளம், குரல்வழி தேடல் மற்றும் 30W சக்திவாய்ந்த சரவுண்ட் சவுண்ட்.",
+      "specs": [
+        {
+          "label": "திரை அளவு",
+          "value": "43 இன்ச் (108 செ.மீ)"
+        },
+        {
+          "label": "தெளிவுத்திறன்",
+          "value": "4K Ultra HD (3840 x 2160)"
+        },
+        {
+          "label": "ரிஃப்ரெஷ் ரேட்",
+          "value": "60 Hz Vivid Motion"
+        },
+        {
+          "label": "ஒலி",
+          "value": "30W Dolby Atmos Surround"
+        },
+        {
+          "label": "ஸ்மார்ட் வசதிகள்",
+          "value": "Google Assistant & Chromecast Built-in"
+        }
+      ],
+      "isAdOffer": false,
+      "isFeatured": true,
+      "isBestSeller": false,
+      "isNewArrival": true,
+      "emiAvailable": true,
+      "monthlyEmiStarting": 2199,
+      "rating": 4.9,
+      "reviewCount": 31
+    },
+    {
+      "id": "prod-4",
+      "name": "190 லிட்டர் 5-ஸ்டார் டைரக்ட் கூல் குளிர்சாதனப் பெட்டி",
+      "brand": "Whirlpool / LG Direct",
+      "model": "DC-190L-5STAR",
+      "categoryId": "cat-2",
+      "categoryName": "குளிர்சாதனப் பெட்டிகள்",
+      "price": 15499,
+      "originalPrice": 19990,
+      "discountPercentage": 22,
+      "stock": 7,
+      "inStock": true,
+      "image": "/src/assets/images/appliances_refrigerator_wash_1794210842490.jpg",
+      "description": "5-நட்சத்திர ஆற்றல் சேமிப்பு மதிப்பீடு பெற்ற உயர்தர குளிர்சாதனப் பெட்டி. விரைவான ஐஸ் தயாரிப்பு மற்றும் நீண்ட நேரம் காய்கறிகளை புத்துணர்ச்சியுடன் வைத்திருக்கும் அதிநவீன நுட்பம்.",
+      "specs": [
+        {
+          "label": "கொள்ளளவு",
+          "value": "190 லிட்டர்"
+        },
+        {
+          "label": "மின்சேமிப்பு நட்சத்திரம்",
+          "value": "5 Star Energy Rating (மின்கட்டணம் மிச்சம்)"
+        },
+        {
+          "label": "கம்ப்ரஸர்",
+          "value": "Smart Inverter Compressor"
+        },
+        {
+          "label": "உத்தரவாதம்",
+          "value": "கம்ப்ரஸருக்கு 10 ஆண்டுகள் உத்தரவாதம்"
+        },
+        {
+          "label": "தட்டு அமைப்பு",
+          "value": "Toughened Glass Shelves (கண்ணாடித் தட்டுகள்)"
+        }
+      ],
+      "isAdOffer": false,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "emiAvailable": true,
+      "monthlyEmiStarting": 1399,
+      "rating": 4.8,
+      "reviewCount": 15
+    },
+    {
+      "id": "prod-5",
+      "name": "240 லிட்டர் ஃப்ராஸ்ட் ஃப்ரீ டபுள் டோர் குளிர்சாதனப் பெட்டி",
+      "brand": "Samsung / Godrej Inverter",
+      "model": "FF-240-DOUBLE-DOOR",
+      "categoryId": "cat-2",
+      "categoryName": "குளிர்சாதனப் பெட்டிகள்",
+      "price": 22990,
+      "originalPrice": 28990,
+      "discountPercentage": 20,
+      "stock": 4,
+      "inStock": true,
+      "image": "/src/assets/images/appliances_refrigerator_wash_1794210842490.jpg",
+      "description": "பனிப்பொழிவு படியாத அதிநவீன டபுள் டோர் குளிர்சாதனப் பெட்டி. நடுத்தர மற்றும் பெரிய குடும்பங்களுக்கு ஏற்ற பெரிய காய்கறி மற்றும் பிரீசர் வசதி.",
+      "specs": [
+        {
+          "label": "கொள்ளளவு",
+          "value": "240 லிட்டர்"
+        },
+        {
+          "label": "வகை",
+          "value": "Frost Free Double Door"
+        },
+        {
+          "label": "கூலிங் தொழில்நுட்பம்",
+          "value": "Multi Air Flow 360 Degree Cooling"
+        },
+        {
+          "label": "உத்தரவாதம்",
+          "value": "கம்ப்ரஸருக்கு 10 ஆண்டுகள், தயாரிப்புக்கு 1 ஆண்டு"
+        }
+      ],
+      "isAdOffer": false,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isNewArrival": true,
+      "emiAvailable": true,
+      "monthlyEmiStarting": 1999,
+      "rating": 4.9,
+      "reviewCount": 11
+    },
+    {
+      "id": "prod-6",
+      "name": "7.0 கிலோ முழு தானியங்கி டாப் லோட் சலவை இயந்திரம்",
+      "brand": "IFB / Whirlpool Fully Automatic",
+      "model": "TL-70-AUTO-PRO",
+      "categoryId": "cat-3",
+      "categoryName": "சலவை இயந்திரங்கள்",
+      "price": 16990,
+      "originalPrice": 22490,
+      "discountPercentage": 24,
+      "stock": 5,
+      "inStock": true,
+      "image": "/src/assets/images/appliances_refrigerator_wash_1794210842490.jpg",
+      "description": "ஒரே தொடுதலில் ஆடைகளை துவைத்து, அலசி, காயவைக்கும் முழுமையான தானியங்கி சலவை இயந்திரம். அழுக்குகளை முழுமையாக நீக்கும் ஸ்பா வாஷ் தொழில் நுட்பம்.",
+      "specs": [
+        {
+          "label": "ஆடை கொள்ளளவு",
+          "value": "7.0 கிலோகிராம்"
+        },
+        {
+          "label": "வகை",
+          "value": "Fully Automatic Top Load"
+        },
+        {
+          "label": "சுழற்சி வேகம்",
+          "value": "740 RPM Fast Dry"
+        },
+        {
+          "label": "வாஷ் புரோகிராம்கள்",
+          "value": "8 வகையான சலவை முறைகள்"
+        },
+        {
+          "label": "மோட்டார் உத்தரவாதம்",
+          "value": "மோட்டாருக்கு 10 ஆண்டுகள் உத்தரவாதம்"
+        }
+      ],
+      "isAdOffer": false,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "emiAvailable": true,
+      "monthlyEmiStarting": 1499,
+      "rating": 4.8,
+      "reviewCount": 18
+    },
+    {
+      "id": "prod-7",
+      "name": "8.0 கிலோ இன்வெர்ட்டர் பிரண்ட் லோட் சலவை இயந்திரம்",
+      "brand": "Bosch / Samsung Front Load",
+      "model": "FL-80-STEAM-PRO",
+      "categoryId": "cat-3",
+      "categoryName": "சலவை இயந்திரங்கள்",
+      "price": 29990,
+      "originalPrice": 38990,
+      "discountPercentage": 23,
+      "stock": 3,
+      "inStock": true,
+      "image": "/src/assets/images/appliances_refrigerator_wash_1794210842490.jpg",
+      "description": "அதிநவீன ஸ்டீம் வாஷ் மற்றும் இன்வெர்ட்டர் தொழில்நுட்பம் கொண்ட பிரண்ட் லோட் வாஷிங் மெஷின். துணிகளுக்கு பூரண பாதுகாப்பு மற்றும் 99.9% கிருமி நீக்கம்.",
+      "specs": [
+        {
+          "label": "ஆடை கொள்ளளவு",
+          "value": "8.0 கிலோகிராம்"
+        },
+        {
+          "label": "வகை",
+          "value": "Front Load with Steam Wash"
+        },
+        {
+          "label": "சுழற்சி வேகம்",
+          "value": "1400 RPM Ultra Fast Spin"
+        },
+        {
+          "label": "ஹைஜீன்",
+          "value": "In-built Heater & Allergy Protect"
+        }
+      ],
+      "isAdOffer": false,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isNewArrival": true,
+      "emiAvailable": true,
+      "monthlyEmiStarting": 2599,
+      "rating": 5,
+      "reviewCount": 8
+    },
+    {
+      "id": "prod-8",
+      "name": "750W ஹெவி டியூட்டி மிக்ஸர் கிரைண்டர் (4 ஜார்கள்)",
+      "brand": "Preethi / Vidiem Copper Motor",
+      "model": "ZODIAC-750-COPPER",
+      "categoryId": "cat-5",
+      "categoryName": "மிக்ஸி மற்றும் கிரைண்டர்கள்",
+      "price": 5490,
+      "originalPrice": 7990,
+      "discountPercentage": 31,
+      "stock": 15,
+      "inStock": true,
+      "image": "/src/assets/images/kitchen_grinder_mixer_appliances_1794210841915.jpg",
+      "description": "100% தூய தாமிர மோட்டார் பொருத்தப்பட்ட சக்திவாய்ந்த 750W மிக்ஸி. மாவு அரைத்தல், சட்னி, மசாலா பொடி மற்றும் பழச்சாறு பிழிய 4 பிரீமியம் எஃகு ஜார்கள்.",
+      "specs": [
+        {
+          "label": "மோட்டார் சக்தி",
+          "value": "750 Watts 100% Pure Copper"
+        },
+        {
+          "label": "ஜார்களின் எண்ணிக்கை",
+          "value": "4 ஸ்டெயின்லெஸ் ஸ்டீல் ஜார்கள்"
+        },
+        {
+          "label": "பிளேடுகள்",
+          "value": "Machine Ground Sharp Steel Blades"
+        },
+        {
+          "label": "பாதுகாப்பு",
+          "value": "Overload Protection Cutoff Switch"
+        },
+        {
+          "label": "உத்தரவாதம்",
+          "value": "மோட்டாருக்கு 5 ஆண்டுகள் உத்தரவாதம்"
+        }
+      ],
+      "isAdOffer": false,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "emiAvailable": true,
+      "monthlyEmiStarting": 499,
+      "rating": 4.9,
+      "reviewCount": 42
+    },
+    {
+      "id": "prod-9",
+      "name": "2 லிட்டர் டேபிள்டாப் வெட் கிரைண்டர் (கற்கள் கொண்ட அமைப்பு)",
+      "brand": "Butterfly / Ultra Tabletop",
+      "model": "TT-2L-CONICAL",
+      "categoryId": "cat-5",
+      "categoryName": "மிக்ஸி மற்றும் கிரைண்டர்கள்",
+      "price": 4350,
+      "originalPrice": 5990,
+      "discountPercentage": 27,
+      "stock": 10,
+      "inStock": true,
+      "image": "/src/assets/images/kitchen_grinder_mixer_appliances_1794210841915.jpg",
+      "description": "மென்மையான இட்லி, தோசை மாவு அரைப்பதற்கு ஏற்ற கோனிகல் உருளைக் கற்கள் கொண்ட 2 லிட்டர் டேபிள்டாப் வெட் கிரைண்டர். நீடித்து உழைக்கும் வலுவான மோட்டார்.",
+      "specs": [
+        {
+          "label": "கொள்ளளவு",
+          "value": "2.0 லிட்டர்"
+        },
+        {
+          "label": "டிரைவ் சிஸ்டம்",
+          "value": "Conical Stones for Fluffy Batter"
+        },
+        {
+          "label": "டிரம்",
+          "value": "Food Grade Rust-Resistant Stainless Steel"
+        },
+        {
+          "label": "உத்தரவாதம்",
+          "value": "2 ஆண்டுகள் முழு உத்திரவாதம்"
+        }
+      ],
+      "isAdOffer": false,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "emiAvailable": true,
+      "monthlyEmiStarting": 399,
+      "rating": 4.8,
+      "reviewCount": 29
+    },
+    {
+      "id": "prod-10",
+      "name": "BLDC 28W மின்சார சேமிப்பு சீலிங் ஃபேன் (ரிமோட் உடன்)",
+      "brand": "Atomberg / Crompton Energy Saver",
+      "model": "BLDC-1200MM-REMOTE",
+      "categoryId": "cat-4",
+      "categoryName": "மின்விசிறிகள்",
+      "price": 3290,
+      "originalPrice": 4890,
+      "discountPercentage": 32,
+      "stock": 20,
+      "inStock": true,
+      "image": "/src/assets/images/hero_showroom_appliances_1794210840737.jpg",
+      "description": "65% வரை மின்சாரத்தை சேமிக்கும் அதிநவீன BLDC மோட்டார் சீலிங் ஃபேன். ஸ்மார்ட் ரிமோட் கண்ட்ரோல், ஸ்லீப் மோட் மற்றும் பலத்த காற்று விநியோகம்.",
+      "specs": [
+        {
+          "label": "சுற்றளவு",
+          "value": "1200 mm (48 இன்ச்)"
+        },
+        {
+          "label": "மின் நுகர்வு",
+          "value": "வெறும் 28 வாட்ஸ் (Ultra Energy Efficient)"
+        },
+        {
+          "label": "வேகம்",
+          "value": "360 RPM High Air Delivery"
+        },
+        {
+          "label": "கட்டுப்பாடு",
+          "value": "Smart Remote with Timer Mode"
+        },
+        {
+          "label": "உத்தரவாதம்",
+          "value": "3 ஆண்டுகள் நேரடி உத்தரவாதம்"
+        }
+      ],
+      "isAdOffer": false,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "emiAvailable": false,
+      "rating": 4.9,
+      "reviewCount": 35
+    },
+    {
+      "id": "prod-11",
+      "name": "2000W பிரீமியம் இண்டக்ஷன் அடுப்பு (தானியங்கி மெனு)",
+      "brand": "Pigeon / Prestige Cooktop",
+      "model": "IND-2000W-SMART",
+      "categoryId": "cat-6",
+      "categoryName": "சமையலறை உபகரணங்கள்",
+      "price": 2190,
+      "originalPrice": 3495,
+      "discountPercentage": 37,
+      "stock": 12,
+      "inStock": true,
+      "image": "/src/assets/images/kitchen_grinder_mixer_appliances_1794210841915.jpg",
+      "description": "தமிழ்நாட்டு பாரம்பரிய சமையலுக்கு ஏற்ற இந்திய மெனு அமைப்புகள் கொண்ட அதிநவீன 2000 வாட்ஸ் இண்டக்ஷன் குக்டாப். விரைவான சமையல் மற்றும் பாதுகாப்பான பயன்பாடு.",
+      "specs": [
+        {
+          "label": "வாட்ஸ் அளவு",
+          "value": "2000 Watts Fast Heating"
+        },
+        {
+          "label": "கட்டுப்பாடு",
+          "value": "Push Button with Indian Menu Presets"
+        },
+        {
+          "label": "பாதுகாப்பு",
+          "value": "Auto Shut-Off & Voltage Surge Protector"
+        },
+        {
+          "label": "உத்தரவாதம்",
+          "value": "1 வருடம்"
+        }
+      ],
+      "isAdOffer": false,
+      "isFeatured": false,
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "emiAvailable": false,
+      "rating": 4.7,
+      "reviewCount": 16
+    },
+    {
+      "id": "prod-12",
+      "name": "1000W ஹெவி வெயிட் உலர் அயர்ன் பாக்ஸ்",
+      "brand": "Philips / Usha Classic",
+      "model": "IRON-1000W-HEAVY",
+      "categoryId": "cat-7",
+      "categoryName": "வீட்டு மின்சாதனங்கள்",
+      "price": 1150,
+      "originalPrice": 1695,
+      "discountPercentage": 32,
+      "stock": 18,
+      "inStock": true,
+      "image": "/src/assets/images/hero_showroom_appliances_1794210840737.jpg",
+      "description": "துணிகளை கசங்கலின்றி சுலபமாக அயர்ன் செய்ய கனமான சோல்ப்ளேட் அமைப்பு கொண்ட உயர்தர அயர்ன் பாக்ஸ். வெப்பநிலையை கட்டுப்படுத்தும் தெர்மோஸ்டாட் வசதி.",
+      "specs": [
+        {
+          "label": "வாட்ஸ்",
+          "value": "1000 Watts"
+        },
+        {
+          "label": "அமைப்பு",
+          "value": "Heavy Weight Golden American Heritage Soleplate"
+        },
+        {
+          "label": "கார்டு சுழற்சி",
+          "value": "360 டிகிரி சுழலும் வயர்"
+        },
+        {
+          "label": "உத்தரவாதம்",
+          "value": "2 ஆண்டுகள்"
+        }
+      ],
+      "isAdOffer": false,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isNewArrival": false,
+      "emiAvailable": false,
+      "rating": 4.8,
+      "reviewCount": 22
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "LED தொலைக்காட்சிகள்",
+      "iconName": "Tv",
+      "description": "ஸ்மார்ட் 4K, HD Ready மற்றும் ஆண்ட்ராய்டு எல்இடி தொலைக்காட்சிகள்"
+    },
+    {
+      "id": "cat-2",
+      "name": "குளிர்சாதனப் பெட்டிகள்",
+      "iconName": "Refrigerator",
+      "description": "சிங்கிள் டோர், டபுள் டோர் மற்றும் இன்வெர்ட்டர் குளிர்சாதனப் பெட்டிகள்"
+    },
+    {
+      "id": "cat-3",
+      "name": "சலவை இயந்திரங்கள்",
+      "iconName": "WashingMachine",
+      "description": "டாப் லோடிங் மற்றும் பிரண்ட் லோடிங் வாஷிங் மெஷின்கள்"
+    },
+    {
+      "id": "cat-4",
+      "name": "மின்விசிறிகள்",
+      "iconName": "Fan",
+      "description": "சீலிங் ஃபேன், டேபிள் ஃபேன் மற்றும் BLDC மின்சேமிப்பு மின்விசிறிகள்"
+    },
+    {
+      "id": "cat-5",
+      "name": "மிக்ஸி மற்றும் கிரைண்டர்கள்",
+      "iconName": "Blender",
+      "description": "ஹெவி டியூட்டி மிக்ஸிகள் மற்றும் டேபிள்டாப் கிரைண்டர்கள்"
+    },
+    {
+      "id": "cat-6",
+      "name": "சமையலறை உபகரணங்கள்",
+      "iconName": "Utensils",
+      "description": "இண்டக்ஷன் அடுப்புகள், பிரஷர் குக்கர் மற்றும் கேஸ் ஸ்டவ்கள்"
+    },
+    {
+      "id": "cat-7",
+      "name": "வீட்டு மின்சாதனங்கள்",
+      "iconName": "Zap",
+      "description": "அயர்ன் பாக்ஸ், வாட்டர் ஹீட்டர் மற்றும் ஏர் கூலர்கள்"
+    },
+    {
+      "id": "cat-8",
+      "name": "இதர மின்னணுப் பொருட்கள்",
+      "iconName": "Speaker",
+      "description": "சவுண்ட்பார், ஹோம் தியேட்டர் மற்றும் எலக்ட்ரானிக் உதிரிபாகங்கள்"
+    }
+  ],
+  "orders": [
+    {
+      "id": "BE-2026-7897",
+      "customer": {
+        "name": "செல்வகுமார்",
+        "phone": "9942616243",
+        "address": "5/12, மெயின் ரோடு",
+        "villageOrTown": "வடசித்தூர்",
+        "pincode": "641202"
+      },
+      "items": [
+        {
+          "productId": "prod-1",
+          "productName": "32-இன்ச் ஸ்மார்ட் பிரேம்லெஸ் எல்இடி டிவி",
+          "model": "BH-32SMART-HD",
+          "price": 10999,
+          "quantity": 1,
+          "image": "/src/assets/images/promo_tv_festival_display_1794210842998.jpg"
+        }
+      ],
+      "subtotal": 10999,
+      "deliveryFee": 0,
+      "totalAmount": 10999,
+      "paymentMethod": "cod",
+      "paymentStatus": "நிலுவையில்",
+      "status": "வழங்கப்பட்டது",
+      "createdAt": "2026-11-09T08:04:59.054Z",
+      "statusHistory": [
+        {
+          "status": "புதிய ஆர்டர்",
+          "timestamp": "2026-11-09T08:04:59.054Z",
+          "note": "வாடிக்கையாளர் மூலம் ஆர்டர் பெறப்பட்டது"
+        },
+        {
+          "status": "உறுதிப்படுத்தப்பட்டது",
+          "timestamp": "2026-11-09T08:05:07.892Z",
+          "note": "கடை ஊழியர் வாடிக்கையாளரை அழைத்து உறுதி செய்தார்"
+        },
+        {
+          "status": "வழங்கப்பட்டது",
+          "timestamp": "2026-11-09T15:22:18.157Z",
+          "note": "நிலை மாற்றப்பட்டது: வழங்கப்பட்டது"
+        }
+      ]
+    },
+    {
+      "id": "BE-2026-1001",
+      "customer": {
+        "name": "சுரேஷ் குமார்",
+        "phone": "98421 55678",
+        "address": "12/4, காமராஜர் வீதி",
+        "villageOrTown": "வடசித்தூர்",
+        "pincode": "641202",
+        "notes": "மாலையில் விநியோகம் செய்யவும்"
+      },
+      "items": [
+        {
+          "productId": "prod-1",
+          "productName": "32-இன்ச் ஸ்மார்ட் பிரேம்லெஸ் எல்இடி டிவி",
+          "model": "BH-32SMART-HD",
+          "price": 10999,
+          "quantity": 1,
+          "image": "/src/assets/images/promo_tv_festival_display_1794210842998.jpg"
+        }
+      ],
+      "subtotal": 10999,
+      "deliveryFee": 0,
+      "totalAmount": 10999,
+      "paymentMethod": "cod",
+      "paymentStatus": "சரிபார்க்கப்பட்டது",
+      "status": "வழங்கப்பட்டது",
+      "createdAt": "2026-11-07T08:04:50.720Z",
+      "statusHistory": [
+        {
+          "status": "புதிய ஆர்டர்",
+          "timestamp": "2026-11-07T08:04:50.721Z"
+        },
+        {
+          "status": "உறுதிப்படுத்தப்பட்டது",
+          "timestamp": "2026-11-07T12:52:50.721Z"
+        },
+        {
+          "status": "அனுப்பப்பட்டது",
+          "timestamp": "2026-11-08T03:16:50.721Z"
+        },
+        {
+          "status": "வழங்கப்பட்டது",
+          "timestamp": "2026-11-08T08:04:50.721Z"
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "shopName": "பாரத் எண்டர்பிரைசஸ் (Bharath Enterprises)",
+    "address": "4/382, கிணத்துக்கடவு – கடம்பாடி மெயின் ரோடு, வடசித்தூர் – 641202, கோயம்புத்தூர், தமிழ்நாடு.",
+    "phone1": "99426 16243",
+    "phone2": "98423 17240",
+    "whatsappNumber": "9942616243",
+    "enableCod": true,
+    "enableUpi": false,
+    "upiId": "9942616243@upi",
+    "enableBajajEmi": true,
+    "announcement": "🎉 வடசித்தூர் பாரத் எண்டர்பிரைசஸ் தீபாவளி & சிறப்பு சலுகைகள்! எல்இடி டிவி ₹9,500 முதல்! பஜாஜ் பின்சர்வ் 0% வட்டி சுலப தவணை முறை உண்டு.",
+    "bannerImage": "/src/assets/images/hero_showroom_appliances_1794210840737.jpg"
+  },
+  "reviews": [
+    {
+      "id": "rev-1",
+      "productId": "prod-1",
+      "customerName": "முருகேசன்",
+      "rating": 5,
+      "comment": "வடசித்தூர் பாரத் எண்டர்பிரைசஸில் வாங்கிய 32 இன்ச் டிவி படம் மிக அருமையாக உள்ளது! சிறந்த விலை.",
+      "createdAt": "2026-11-06T08:04:50.721Z",
+      "isApproved": true
+    },
+    {
+      "id": "rev-2",
+      "productId": "prod-8",
+      "customerName": "செல்வி",
+      "rating": 5,
+      "comment": "ப்ரீத்தி மிக்ஸி மிக விரைவாக அரைக்கிறது. பஜாஜ் இ.எம்.ஐ வசதி உதவியாக இருந்தது.",
+      "createdAt": "2026-11-04T08:04:50.721Z",
+      "isApproved": true
+    }
+  ]
+}
